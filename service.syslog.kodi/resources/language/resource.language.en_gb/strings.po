@@ -1,0 +1,22 @@
+# Kodi Media Center language file
+# Addon Name: Kodi Remote Logs
+# Addon id: service.syslog.kodi
+
+msgid ""
+msgstr ""
+
+msgctxt "#32001"
+msgid "Enable remote syslog"
+msgstr ""
+
+msgctxt "#32002"
+msgid "Syslog server IP"
+msgstr ""
+
+msgctxt "#32003"
+msgid "Syslog port (UDP)"
+msgstr ""
+
+msgctxt "#32004"
+msgid "Preceding Tag Text (optional)"
+msgstr ""
