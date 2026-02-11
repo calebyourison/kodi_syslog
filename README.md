@@ -11,6 +11,8 @@ Tag text can be useful if you separate your log files by app name.  Spaces will 
 
 ![My plot](settings.jpeg)
 
+[Download](https://github.com/calebyourison/kodi_syslog/releases/tag/kodi-syslog) and install from zip.
+
 #### Disclaimer
 ---
 This add-on is not part of the official repository and is not responsible for any issues that you encounter with your Kodi installation.
