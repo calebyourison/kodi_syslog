@@ -9,7 +9,7 @@ Set the IP address of your syslog server along with its UDP port (514 default).
 
 Tag text can be useful if you separate your log files by app name.  Spaces will be included.  This field is empty by default, though a basic use case might implement "Kodi: " for sorting purposes. 
 
-![My plot](settings.jpeg)
+![My plot](settings.png)
 
 [Download](https://github.com/calebyourison/kodi_syslog/releases/tag/kodi-syslog) and install from zip.
 
