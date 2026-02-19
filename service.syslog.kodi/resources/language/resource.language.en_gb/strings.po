@@ -20,3 +20,7 @@ msgstr ""
 msgctxt "#32004"
 msgid "Preceding Tag Text (optional)"
 msgstr ""
+
+msgctxt "#32005"
+msgid "General"
+msgstr ""
