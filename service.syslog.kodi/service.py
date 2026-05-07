@@ -50,7 +50,7 @@ try:
                     last_pos = f.tell()
 
                 for line in lines:
-                    msg = f'{tag_text}{line.strip()}'
+                    msg = f'{tag_text}{line}'
                     sock.sendto(msg.encode('utf-8'), target)
 
             except Exception as e:
