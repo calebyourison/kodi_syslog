@@ -6,15 +6,15 @@ msgid ""
 msgstr ""
 
 msgctxt "#32001"
-msgid "Enable remote syslog"
+msgid "Enable Remote Syslog"
 msgstr ""
 
 msgctxt "#32002"
-msgid "Syslog server IP"
+msgid "Syslog Server IP"
 msgstr ""
 
 msgctxt "#32003"
-msgid "Syslog port (UDP)"
+msgid "Syslog Port"
 msgstr ""
 
 msgctxt "#32004"
@@ -23,4 +23,8 @@ msgstr ""
 
 msgctxt "#32005"
 msgid "General"
+msgstr ""
+
+msgctxt "#32006"
+msgid "Protocol"
 msgstr ""

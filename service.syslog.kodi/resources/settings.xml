@@ -22,6 +22,18 @@
                     </control>
                 </setting>
 
+                <setting id="protocol" type="integer" label="32006" help="">
+                    <level>0</level>
+                    <default>0</default>
+                    	<constraints>
+		                    <options>
+			                    <option label="TCP">0</option>
+			                    <option label="UDP">1</option>
+		                    </options>
+	                    </constraints>
+	                <control type="list" format="string"/>
+                </setting>
+
                 <setting id="syslog_port" type="integer" label="32003" help="">
                     <level>0</level>
 	                <default>514</default>
