@@ -1,17 +1,17 @@
 # Forward Kodi Logs 
 ---
-This add-on is designed to read the internal log file, check every 5 seconds for new lines, and send those lines to a local syslog server via UDP.
+This add-on is designed to read the internal log file, check every 5 seconds for new lines, and send those lines to a local syslog server via TCP or UDP.
 
 There are just a few settings to configure. 
 
 Forwarding can be toggled on/off.
-Set the IP address of your syslog server along with its UDP port (514 default).
+Set the IP address of your syslog server along with its TCP/UDP port (TCP on 514 by default).
 
 Tag text can be useful if you separate your log files by app name.  Spaces will be included.  This field is empty by default, though a basic use case might implement "Kodi: " for sorting purposes. 
 
 ![My plot](settings.png)
 
-[Download](https://github.com/calebyourison/kodi_syslog/releases/tag/kodi-syslog) and install from zip.
+[Download](https://github.com/calebyourison/kodi_syslog/releases/tag/kodi-syslog-0.2.0) and install from zip.
 
 #### Disclaimer
 ---
